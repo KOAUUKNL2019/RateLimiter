@@ -12,7 +12,3 @@ Rules
 
 1. UserId has 100 requests per hour
 2. If exceeded 429 error is returned.
-
-Test
-
-1. Postman
